@@ -8,6 +8,9 @@ The PDF included "gray box" drawings of page layouts that are increasingly diffi
 
 Please also note that we are not providing finished HTML and CSS for these exercises. We've found that HTML and CSS style can vary considerably from person to person, so please feel free to take your own approach to these quick layout wireframes.
 
+#### Expectations
+
+We expect each student to complete _as many of these as possible_. If that means you complete 1, great. If you finish all of them, fantastic. You should continue working on these problems after submission to practice your CSS skills until you complete this challenge.
 
 #### Submission
 

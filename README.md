@@ -1,4 +1,4 @@
-## Layout Challenge
+## Layouts Challenge
 
 > *Fork & Clone this repository*
 

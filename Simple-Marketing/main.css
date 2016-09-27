@@ -1,0 +1,65 @@
+#Top {
+    height:100px;
+    background-color:gray;
+    border: 10px solid white;
+ 
+
+}
+
+#Top1 {
+    float:left;
+    clear:both;
+    width:48%;
+    height:400px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+#Top2 {
+    float:right;
+    width:49%;
+    height:400px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+
+#Middle1 {
+    float:left;
+    clear:both;
+    width:31.5%;
+    height:150px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+#Middle2 {
+    float:left;
+    width:32%;
+    height:150px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+#Middle3 {
+    float:right;
+    width:32%;
+    height:150px;
+    background-color:gray;
+    border: 10px solid white;
+
+
+}
+
+
+#Footer {
+    background-color:gray;
+    clear:both;
+    border: 10px solid white;
+
+
+}

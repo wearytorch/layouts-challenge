@@ -19,26 +19,40 @@ nav li {
     background-color: silver;
 }
 
-#rightcol {
-    background-color: darkmagenta;
+#middle12col {
     height: 300px;
-    width: 50%;
-    float: right;
+    width: 100%;
+    background-color: darkviolet;
+    clear: both;
 }
 
-/*#right4col {*/
-    /*background-color: darkgreen;*/
-    /*height:150px;*/
-    /*width: 35%;*/
-    /*float: right;*/
+#rightcol {
+    background-color: darkgreen;
+    height:150px;
+    width: 35%;
+    float: right;
+    /*clear: both;*/
+}
+
+#middlecol {
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 33%;
+    float: left;
     /*clear: both;*!*/
-/*}*/
+}
 
-/*#ctr4col {*/
-    /*background-color: blanchedalmond;*/
-    /*height: 150px;*/
-    /*width: 33%;*/
-    /*float: left;*/
-    /*!*clear: both;*!*!*!*/
-/*}*/
+#leftcol {
+    background-color: darkkhaki;
+    height: 150px;
+    width: 32%;
+    float: left;
+    clear: both;
+}
 
+#footer {
+    height: 100px;
+    width: 100%;
+    background-color: darkgoldenrod;
+    clear: both;
+}

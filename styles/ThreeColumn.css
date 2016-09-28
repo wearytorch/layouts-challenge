@@ -1,57 +1,61 @@
 /*Three column layout*/
 
 /* Clear fix hack */
-.clearfix:after {
-    content: ".";
-    display: block;
-    clear: both;
-    visibility: hidden;
-    line-height: 0;
-    height: 0;
-}
+/*.clearfix:after {*/
+    /*content: ".";*/
+    /*display: block;*/
+    /*clear: both;*/
+    /*visibility: hidden;*/
+    /*line-height: 0;*/
+    /*height: 0;*/
+/*}*/
 
-.clear {
-    clear: both;
-}
+/*.clear {*/
+    /*clear: both;*/
+/*}*/
 
-#navbar2 {
+#masthead {
     background-color: aqua;
     height: 100px;
-    margin-top: 25px;
-    padding: 1em 0;
-    padding: 1em 0;
+    width: 100%;
+    /*margin-top: 25px;*/
+    /*padding: 1em 0;*/
+    /*padding: 1em 0;*/
     text-align: center;
 }
 
-#page_layout2 > .row2 >.cols3a {
+#leftcol {
+    clear: both;
     background-color: navy;
     height:500px;
-    width: 325px;
-    margin-top: 15px;
+    width: 25%;
+    /*margin-top: 15px;*/
     float: left;
     /*position: absolute;*/
 }
 
-#page_layout2 > .row2 >.cols3b {
+#middlecol {
+    background-color: coral;
+    height:500px;
+    width: 50%;
+    /*margin-top: 15px;*/
+    float: left;
+}
+
+#rightcol {
     background-color: plum;
     height:500px;
-    width: 550px;
-    margin-top: 15px;
+    width: 25%;
+    /*margin-top: 15px;*/
     float: right;
 }
 
 
-#page_layout2 > .row2 >.cols3c {
-    background-color: coral;
-    height:500px;
-    width: 325px;
-    margin-top: 15px;
-    float: left;
-}
-
-#footer > #bottom {
-    background-color: pink;
+#footer {
+    background-color: lightcyan;
     height: 100px;
-    margin-bottom: 500px;
-    position: absolute;
+    clear: both;
+    width: 100%;
+    /*margin-bottom: 500px;*/
+
 }

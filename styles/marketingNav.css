@@ -1,0 +1,44 @@
+body {
+    background-color: gainsboro;
+}
+
+#leftlogo {
+    background-color: goldenrod;
+    height: 125px;
+    width: 20%;
+    float: left;
+    display: inline-block;
+}
+
+nav li {
+    float: right;
+    display: inline-block;
+    height: 25px;
+    width: 10%;
+    padding: 45px 25px 25px 45px;
+    background-color: silver;
+}
+
+#rightcol {
+    background-color: darkmagenta;
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
+/*#right4col {*/
+    /*background-color: darkgreen;*/
+    /*height:150px;*/
+    /*width: 35%;*/
+    /*float: right;*/
+    /*clear: both;*!*/
+/*}*/
+
+/*#ctr4col {*/
+    /*background-color: blanchedalmond;*/
+    /*height: 150px;*/
+    /*width: 33%;*/
+    /*float: left;*/
+    /*!*clear: both;*!*!*!*/
+/*}*/
+

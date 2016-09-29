@@ -1,0 +1,45 @@
+#Top {
+    height:100px;
+    background-color:gray;
+    border: 10px solid white;
+ 
+
+}
+
+#Middle1 {
+    float:left;
+    clear:both;
+    width:20%;
+    height:600px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+#Middle2 {
+    float:left;
+    width:55.5%;
+    height:600px;
+    background-color:gray;
+    border: 10px solid white;
+
+}
+
+#Middle3 {
+    float:right;
+    width:20%;
+    height:600px;
+    background-color:gray;
+    border: 10px solid white;
+
+
+}
+
+
+#Footer {
+    background-color:gray;
+    clear:both;
+    border: 10px solid white;
+
+
+}

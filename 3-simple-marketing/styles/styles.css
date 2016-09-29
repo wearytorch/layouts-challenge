@@ -1,0 +1,84 @@
+body {
+	margin: 0px;
+}
+
+#wrapper {
+	width: 90%;
+	margin: 100px auto;
+}
+
+header {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 28px;
+	position: relative;
+	height: 120px;
+}
+
+section {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 80px;
+	margin-right: 0px;
+	width: 27%;
+	height: 150px;
+	float: left;
+	margin-top: 30px;
+}
+
+#secondSection {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 32px;
+	margin-right: 32px;
+	width: 27%;
+	height: 150px;
+	float: left;
+	clear: right;
+	margin-top: 30px;
+}
+
+aside {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	width: 28%;
+	margin-left: 0px;
+	margin-right: 80px;
+	height: 150px;
+	float: right;
+	margin-bottom: 28px;
+	margin-top: 30px;
+}
+
+#boxone {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 80px;
+	margin-right: 0px;
+	width: 42.5%;
+	height: 300px;
+	float: left;
+	clear: right;
+}
+
+#boxtwo {
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 0px;
+	margin-right: 80px;
+	width: 42.5%;
+	height: 300px;
+	float: right;
+
+}
+
+footer {
+	clear:both;
+	border: 1px solid #A7A7A7;
+	background-color: #D7D7D7;
+	margin-left: 80px;
+	margin-right: 80px;
+	height: 120px;
+}

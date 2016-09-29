@@ -1,0 +1,61 @@
+/*Three column layout*/
+
+/* Clear fix hack */
+/*.clearfix:after {*/
+    /*content: ".";*/
+    /*display: block;*/
+    /*clear: both;*/
+    /*visibility: hidden;*/
+    /*line-height: 0;*/
+    /*height: 0;*/
+/*}*/
+
+/*.clear {*/
+    /*clear: both;*/
+/*}*/
+
+#masthead {
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    /*margin-top: 25px;*/
+    /*padding: 1em 0;*/
+    /*padding: 1em 0;*/
+    text-align: center;
+}
+
+#leftcol {
+    clear: both;
+    background-color: navy;
+    height:500px;
+    width: 25%;
+    /*margin-top: 15px;*/
+    float: left;
+    /*position: absolute;*/
+}
+
+#middlecol {
+    background-color: coral;
+    height:500px;
+    width: 50%;
+    /*margin-top: 15px;*/
+    float: left;
+}
+
+#rightcol {
+    background-color: plum;
+    height:500px;
+    width: 25%;
+    /*margin-top: 15px;*/
+    float: right;
+}
+
+
+#footer {
+    background-color: lightcyan;
+    height: 100px;
+    clear: both;
+    width: 100%;
+    /*margin-bottom: 500px;*/
+
+}

@@ -1,0 +1,59 @@
+/*body {*/
+    /*background-color: lightslategrey;*/
+/*}*/
+
+#topnav {
+    background-color: lightcyan;
+    clear: both;
+    height: 100px;
+    width: 100%;
+}
+
+#leftcol {
+    background-color: blueviolet;
+    height: 300px;
+    width: 50%;
+    float: left;
+    clear: both;
+}
+
+#rightcol {
+    background-color: darkmagenta;
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
+#right4col {
+    background-color: darkgreen;
+    height:150px;
+    width: 35%;
+    float: right;
+    /*clear: both;*/
+}
+
+#ctr4col {
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 33%;
+    float: left;
+    /*clear: both;*!*/
+}
+
+#left4col {
+    background-color: darkkhaki;
+    height: 150px;
+    width: 32%;
+    float: left;
+    clear: both;
+
+ }
+
+#footer {
+    height: 100px;
+    width: 100%;
+    background-color: darkviolet;
+    clear: both;
+}
+
+

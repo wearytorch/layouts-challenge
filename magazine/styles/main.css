@@ -1,0 +1,98 @@
+html{
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+#container{
+	max-width: 100%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+body{
+	margin: 0 auto;
+}
+#wrapper{
+	margin-left: 5%;
+}
+.color{
+	background-color: grey;
+}
+.left-head{
+	height: 125px;
+	width: 250px;
+	margin-top: 0;
+	float: left;
+	margin-bottom: 3%;
+}
+article{
+	margin-top: 3%;
+
+}
+.navy{
+	height: 75px;
+	float: left;
+	width: 100px;
+	background-color: grey;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.navy1 .navy:first-child{
+	margin-left: 10%;
+}
+.mid-head{
+	background-color: grey;
+	float: left;
+	height: 125px;
+	width:800px;
+	margin-left: 3%;
+}
+.mid-mid{
+	background-color: grey;
+	float:left;
+	height: 300px;
+	width: 600px;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+.mid-right{
+	background-color: grey;
+	width: 160px;
+	height: 300px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 3%;
+
+}
+.mid-bottom{
+	background-color: grey;
+	width:100px;
+	height:100px;
+	margin-left: 3%;
+	margin-top: 3%;
+	float:;
+
+}
+#left1{
+	clear: both;
+	float: left;
+	display: block;
+	margin-right: 0;
+	margin-bottom: 3%;
+	background-color: grey;
+	height: 700px;
+	width: 200px;
+}
+
+
+#article2{
+	margin-top: 3%;
+}
+footer{
+	clear:both;
+	margin-top: 3%;
+	width: 800px;
+	height: 125px;
+	background-color: grey;
+}

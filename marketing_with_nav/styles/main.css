@@ -1,0 +1,88 @@
+html{
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+#container{
+	max-width: 100%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+body{
+	margin: 0 auto;
+}
+#wrapper{
+	margin-left: 5%;
+}
+.color{
+	background-color: grey;
+}
+.left-head{
+	height: 125px;
+	width: 200px;
+	margin-top: 0;
+	float: left;
+	margin-bottom: 3%;
+}
+article{
+	margin-top: 3%;
+
+}
+.navy{
+	height: 75px;
+	float: left;
+	width: 100px;
+	background-color: grey;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.navy1 .navy:first-child{
+	margin-left: 10%;
+}
+#left1{
+	clear: both;
+	float: left;
+	margin-right: 0;
+	margin-bottom: 3%;
+	background-color: grey;
+	height: 500px;
+	width: 800px;
+}
+#left{
+	background-color: grey;
+	display: block;
+	width: 247px;
+	height: 160px;
+	float: left;
+	margin-bottom: 3%;
+	clear:both;
+}
+#middle{
+	background-color: grey;
+	float: left;
+	display: block;
+	width: 247px;
+	height: 160px;
+	margin-left: 3%;
+	margin-bottom: 3%;
+
+}
+#right{
+	float:left;
+	display: block;
+	height: 160px;
+	width: 247px;
+	margin-left: 3%;
+}
+#article2{
+	margin-top: 3%;
+}
+footer{
+	clear:both;
+	margin-top: 3%;
+	width: 800px;
+	height: 125px;
+	background-color: grey;
+}

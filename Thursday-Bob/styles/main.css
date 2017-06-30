@@ -1,0 +1,36 @@
+
+#wrapper {
+	width: 960px;
+	margin: 100px auto;
+}
+header {
+	border: 1px solid black;
+	margin: 20px;
+	width: 100%;
+}
+
+section {
+	border: 1px dashed pink;
+	margin: 10px;
+	height: 500px;
+	width: 75%;
+	background: gray;
+	position: relative;
+	float: left;
+}
+
+aside {
+	border: 1px solid brown;
+	margin: 10px;
+	height: 500px;
+	width: 20%;
+	background: lightgray;
+	position: relative;
+	float: right;
+}
+
+footer {
+	border: 1px dotted orange;
+	background: orange;
+	clear: both;
+}
